@@ -1,1 +1,1 @@
-FROM n8nio/n8n:latest-slim
+FROM n8nio/n8n:alpine
