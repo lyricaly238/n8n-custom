@@ -1,1 +1,1 @@
-FROM n8nio/n8n:alpine
+FROM n8nio/n8n
